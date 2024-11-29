@@ -15,7 +15,7 @@ Esse projeto é uma **calculadora simples com interface gráfica** desenvolvida 
    ```
 
 2. **Executar o projeto:**
-   Para executar a aplicação Swing com o Maven, usando a classe principal definida no seu `pom.xml`, use o comando:
+   Para executar a aplicação com o Maven, usando a classe principal definida no seu `pom.xml`, use o comando:
 
    ```bash
    mvn javafx:run
